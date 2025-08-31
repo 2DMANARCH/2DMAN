@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://franjoantontudman.github.io/sitemap.xml
